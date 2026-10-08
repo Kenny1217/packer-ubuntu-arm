@@ -1,5 +1,6 @@
-# .img Files
+# Disk images
 *.img
 
-# Mac OS
+# macOS files
 .DS_Store
+._*
