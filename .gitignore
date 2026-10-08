@@ -1,0 +1,5 @@
+# .img Files
+*.img
+
+# Mac OS
+.DS_Store
